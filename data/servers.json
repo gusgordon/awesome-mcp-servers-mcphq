@@ -4000,6 +4000,25 @@
     }
   },
   {
+    "name": "Ignav Flights",
+    "url": "https://github.com/gusgordon/ignav-skill",
+    "description": "Search live flight prices, compare departure dates, resolve airports, and get booking links.",
+    "category": "utilities-and-examples",
+    "language": "Python",
+    "provider": "Ignav",
+    "tags": [
+      "travel",
+      "flights",
+      "booking-links",
+      "remote",
+      "oauth"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://ignav.com/mcp"
+    }
+  },
+  {
     "name": "WebExtract",
     "url": "https://github.com/nyx464664816-stack/webextract",
     "description": "Turns a public URL into structured JSON (product, tables, metadata) plus clean Markdown. 20 free calls a day per caller IP, then x402 USDC or credits. Sandbox benchmark, 10 pages: markdown 38/40, extract 40/40 (webextract.dev/benchmark).",
